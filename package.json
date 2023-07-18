@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ts-rest/core": "^3.26.4",
+    "zod": "^3.21.4"
+  }
+}
